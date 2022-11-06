@@ -1,6 +1,5 @@
 import React from 'react'
 import "../styles/globals.css"
-import "../styles/rokkitt.ttf"
 import HomePageContent from './(client)/HomePageContent'
 import ProjectPageContent from './(client)/ProjectPageContent'
 import Header from './Header'
