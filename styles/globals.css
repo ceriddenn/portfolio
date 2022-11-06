@@ -3,6 +3,6 @@
 @tailwind utilities;
 @font-face {
     font-family: "ROKKITT";
-    src: url("../app/ROKKITT.ttf");
+    src: url("./ROKKITT.ttf");
   }
   
